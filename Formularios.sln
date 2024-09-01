@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Claculadora", "Claculadora\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JuegoAzar", "JuegoAzar\JuegoAzar.vbproj", "{287AD5A8-C698-4769-B6F9-3C16FE8E4172}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CrudSQLServer", "CrudSQL\CrudSQLServer.vbproj", "{DE2C73B8-D845-4918-AF81-37BFE5D03B8D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CrudSQLServer", "CrudSQLServer\CrudSQLServer.vbproj", "{DE2C73B8-D845-4918-AF81-37BFE5D03B8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
